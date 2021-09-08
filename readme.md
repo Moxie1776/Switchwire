@@ -40,8 +40,8 @@
 -   [40x40x20 Blower Fan 24V](https://www.aliexpress.com/item/4001246935816.html) $5.06
 -   60x60x20 Axial Fan (24V) - recycled from Ender 3 (upgraded PSU fan from original PSU)
 -   [Raspberry Pi 4 Model B/4GB](https://www.pishop.us/product/raspberry-pi-4-model-b-4gb/) - recycled from Ender 3
--   [Fysetc S6 V2](https://www.aliexpress.com/item/4000345369228.html) recycled from Ender 3
-    -   [Fysetc TMC2209 v3.1 x 5](https://www.aliexpress.com/item/33025556705.html) - recycled from Ender 3
+-   [Fysetc S6 V2](https://www.aliexpress.com/item/4000345369228.html)
+    -   [Fysetc TMC2209 v3.1 x 5](https://www.aliexpress.com/item/33025556705.html)
 
 ##### Frame
 
