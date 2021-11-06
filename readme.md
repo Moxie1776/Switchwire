@@ -17,7 +17,9 @@
 
 ##### Motion
 
--   [POWGE 2GT-6 Polyurethane Steel GT2 Belt](https://www.aliexpress.com/item/32850595940.html) $12.54
+-   [FYSETC GT2 Timing Belt](https://www.amazon.com/gp/product/B07BRKZGMS) $10.88
+    -   [GATES-LL-2GT-6 Synchronous GT2](https://www.aliexpress.com/item/4001230715938.html) $31.79
+    -   I have these on hand ready to put on
 -   [POWGE 20 teeth 2GT Pulley Black Anodizing](https://www.aliexpress.com/item/4000454459268.html) $16.14
 -   [Mellow F695-2RS Bearing 5_13_4 mm Flanged Bushing x2](https://www.aliexpress.com/item/1005001315513956.html) $20.38
 -   [RobotDigg Black Anodized Linear Rails](https://www.robotdigg.com/product/1314/Black-anodized-linear-rail-7,-9,-12-and-15) $73.00
