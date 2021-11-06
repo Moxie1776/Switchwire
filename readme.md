@@ -1,5 +1,9 @@
 # Voron Switchwire
 
+<!-- ![Switchwire](./images/SWbedOn.jpg)  -->
+
+<img src="./images/SWbedOn.png" width="450">
+
 ### BOM
 
 -   Includes tax and S&H as much as was feasible
@@ -7,7 +11,8 @@
 
 ##### Printed Parts
 
--   [KVP ABS](https://www.villageplastics.com/product/abs/)
+-   Black Inland ABS
+-   Green [KVP ABS](https://www.villageplastics.com/product/abs/)
 -   printed FB friend (for a price)    
 -   Black with Green accents
 
