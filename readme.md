@@ -38,10 +38,12 @@
 
 -   [Limit Switches](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F-5L/8593137) $17.58
 -   [Omron Proximity Switch Inductive Sensor 3 Wire](https://www.aliexpress.com/item/32442790824.html) $18.78
--   [Bat-85 Diode](https://www.digikey.com/en/products/detail/BAT85S-TR/BAT85SCT-ND/3104371) $1.20
+-   Bat-85 Diode not needed with the Fysetc S6
 -   [Mean Well RS-25-5](https://www.digikey.com/en/products/detail/RS-25-5/1866-4145-ND/7706180) $11.54 ($4.99 S&H)
--   NEMA17 Motor 17HS15-1504S1 x3 - recycled from Ender 3
+-   [NEMA17 Motor 17HS15-1504S-X1 x3](https://www.amazon.com/gp/product/B07LCK19D5) $30.22
+-   [NEMA17 Motor 17HS08-1004S x3](https://www.amazon.com/gp/product/B00PNEQ79Q) $11.79
 -   Mean Well LRS-350-24 PSU - recycled from Ender 3
+
 -   [Filtered Power Inlet](https://www.amazon.com/gp/product/B081VD1NNT) $11.79
 -   [40x40x10 Axial Fan 24V](https://www.aliexpress.com/item/32815685199.html) $4.65
 -   [40x40x20 Blower Fan 24V](https://www.aliexpress.com/item/4001246935816.html) $5.06
