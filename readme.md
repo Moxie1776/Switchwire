@@ -70,3 +70,4 @@
 -   [Prusa I3 MK3 MK52 Heated Bed + Double Sided Textured Powder Coated PEI Spring Steel Sheet For VORON SW](https://www.aliexpress.com/item/4000016762364.html) $61.73
 -   [Laser Cut ABS Deck, Enclosure (minus clear)](https://mnlasercutting.com/shop/voron-switchwire) $45.00
 -   [Clear Acrylic Enclosure Parts](https://www.printedsolid.com/products/voron-switchwire-panel-set-made-from-aluminum-composite-material) $34.00
+    -   I would have just purchased the entire enclosure set from printedsolid 'had a known'
